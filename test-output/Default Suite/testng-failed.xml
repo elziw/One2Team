@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default Suite]">
+  <test name="selenium-app(failed)">
+    <classes>
+      <class name="com.selenium.test.testng.tests.One2Team">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="testOne2Team"/>
+          <include name="afterTest"/>
+        </methods>
+      </class> <!-- com.selenium.test.testng.tests.One2Team -->
+    </classes>
+  </test> <!-- selenium-app(failed) -->
+</suite> <!-- Failed suite [Default Suite] -->
